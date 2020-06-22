@@ -5,12 +5,14 @@
  */
 package var1;
 
+ //גרסה  2  
 import jarmo.*;
 
 /**
  *
  * @author לוי
  */
+
 public enum Clicking 
 {
     firstClick,secondClick,reviveClick
